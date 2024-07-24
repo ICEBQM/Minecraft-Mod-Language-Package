@@ -54,7 +54,7 @@
   "subtitles.simpleradio.radio_open": "收音机开始广播",
   "subtitles.simpleradio.radio_close": "收音机停止广播",
 
-  "tooltip.simpleradio.transceiver_frequency": "频率: %s",
-  "tooltip.simpleradio.receiver_user": "使用者: %s"
+  "tooltip.simpleradio.transceiver_frequency": "频率:%s",
+  "tooltip.simpleradio.receiver_user": "使用者:%s"
 }
 
